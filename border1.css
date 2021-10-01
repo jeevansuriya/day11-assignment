@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid black;
+    width: 600px;
+    height: 50px;
+  }
+  .user-data{
+    border-collapse: collapse;
+    margin:auto;
+    text-align: center;
+  }
+  h3{
+      text-align: center;
+  }
+ 
